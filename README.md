@@ -12,5 +12,4 @@ SI = (P × R × T) / 100
 ## Output:
 - Simple Interest
 
-## Author:
-Your Name
+
