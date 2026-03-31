@@ -5,11 +5,12 @@ This program calculates simple interest using the formula:
 SI = (P × R × T) / 100
 
 ## Inputs:
-- Principal
-- Rate
-- Time
+- Principal = 1000
+- Rate = 5
+- Time = 2
 
 ## Output:
-- Simple Interest
+- Simple Interest = 100
+- 
 
 
